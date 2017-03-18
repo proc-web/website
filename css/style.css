@@ -28,11 +28,15 @@ Master Stylesheet
   padding-right: 4em;
   position: relative;
 }
+
 .arriv-info2 {
   position: absolute;
   bottom: 32px;
   left: 42px;
   text-align: center;
+}
+.post-media {
+margin-right:6em;
 }
 .blog-text {
     padding: 2em 1.5em;
